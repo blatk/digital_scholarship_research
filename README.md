@@ -1,2 +1,2 @@
-# digital_scholarship_research
+# Digital Scholarship Research
 Digital Scholarship Reserach
